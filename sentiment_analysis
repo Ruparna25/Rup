@@ -1,3 +1,3 @@
 import graphlab
 movie = graphlab.SFrame('C:\Users\IBM_ADMIN\Desktop\personal\data science using python\train.tsv\train.tsv')
-len(movie)
+len(movie) 
