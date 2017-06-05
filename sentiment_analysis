@@ -1,2 +1,3 @@
 import graphlab
-review = graphlab.SFrame('people_wiki.gl/')
+review = graphlab.SFrame('C:\Users\IBM_ADMIN\Desktop\personal\data science using python\train.tsv\train.tsv')
+review.head()
