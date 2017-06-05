@@ -1,0 +1,2 @@
+import graphlab
+review = graphlab.SFrame('people_wiki.gl/')
